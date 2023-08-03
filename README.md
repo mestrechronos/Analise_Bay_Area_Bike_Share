@@ -7,4 +7,6 @@ E a montagem dos gráficos.
 
 E como foi pedido na época, a exportação em HTML.
 
+Ah sim, a última pergunta parece coisa de coach, mas era obrigatório fazer o que né...
+
 Caso queira mais detalhes, pode entrar em contato.
